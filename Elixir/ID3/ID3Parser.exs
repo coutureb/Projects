@@ -1,3 +1,6 @@
+##
+# ref:  http://benjamintan.io/blog/2014/06/10/elixir-bit-syntax-and-id3/
+##
 defmodule ID3Parser do
 
   def parse(file_name) do
